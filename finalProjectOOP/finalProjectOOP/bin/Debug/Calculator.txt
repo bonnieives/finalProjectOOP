@@ -1,0 +1,7 @@
+finalProjectOOP.CalculatorOperations + 9 = 14
+finalProjectOOP.CalculatorOperations + 6 = 20
+finalProjectOOP.CalculatorOperations + 8 = 28
+finalProjectOOP.CalculatorOperations / 0 = 0
+finalProjectOOP.CalculatorOperations / 0 = 0
+finalProjectOOP.CalculatorOperations - 6 = -6
+finalProjectOOP.CalculatorOperations - 5 = 18

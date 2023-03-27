@@ -1,0 +1,10 @@
+0 = 0, 2023/3/25 - 02:20:17 PM - Very cold day.
+12 = 0, 2023/3/25 - 02:20:20 PM - Very cold day.
+12C = 12F, 2023/3/25 - 02:20:23 PM - Starting to get cold, right?
+12F = -11.1C, 2023/3/25 - 02:20:26 PM - Welcome to canadian Fall
+32F = 0C, 2023/3/25 - 02:20:29 PM - Very cold day.
+32C = 32F, 2023/3/25 - 02:20:31 PM - Air conditioner recomended.
+156C = 156F, 2023/3/25 - 02:20:34 PM - Water boiling.
+156F = 68.9C, 2023/3/25 - 02:20:37 PM - TOO hot for bath.
+65C = 65F, 2023/3/25 - 02:20:46 PM - TOO hot for bath.
+65F = 18.3C, 2023/3/25 - 02:20:48 PM - Starting to get cold, right?

@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\finalProjectOOP\finalProjectOOP\bin\Debug\finalProjectOOP.exe.config
+C:\Users\Admin\source\repos\finalProjectOOP\finalProjectOOP\bin\Debug\finalProjectOOP.exe
+C:\Users\Admin\source\repos\finalProjectOOP\finalProjectOOP\bin\Debug\finalProjectOOP.pdb
+C:\Users\Admin\source\repos\finalProjectOOP\finalProjectOOP\obj\Debug\finalProjectOOP.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\finalProjectOOP\finalProjectOOP\obj\Debug\finalProjectOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\finalProjectOOP\finalProjectOOP\obj\Debug\finalProjectOOP.lottoMax.resources
+C:\Users\Admin\source\repos\finalProjectOOP\finalProjectOOP\obj\Debug\finalProjectOOP.mainForm.resources
+C:\Users\Admin\source\repos\finalProjectOOP\finalProjectOOP\obj\Debug\finalProjectOOP.Properties.Resources.resources
+C:\Users\Admin\source\repos\finalProjectOOP\finalProjectOOP\obj\Debug\finalProjectOOP.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\finalProjectOOP\finalProjectOOP\obj\Debug\finalProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\finalProjectOOP\finalProjectOOP\obj\Debug\finalProjectOOP.exe
+C:\Users\Admin\source\repos\finalProjectOOP\finalProjectOOP\obj\Debug\finalProjectOOP.pdb
+C:\Users\Admin\source\repos\finalProjectOOP\finalProjectOOP\obj\Debug\finalProjectOOP.lotto649.resources
+C:\Users\Admin\source\repos\finalProjectOOP\finalProjectOOP\obj\Debug\finalProjectOOP.MoneyExchange.resources
+C:\Users\Admin\source\repos\finalProjectOOP\finalProjectOOP\obj\Debug\finalProjectOOP.TempConv.resources
+C:\Users\Admin\source\repos\finalProjectOOP\finalProjectOOP\obj\Debug\finalProjectOOP.Calculator.resources
+C:\Users\Admin\source\repos\finalProjectOOP\finalProjectOOP\obj\Debug\finalProjectOOP.Ip4Validator.resources

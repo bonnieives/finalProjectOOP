@@ -1,0 +1,14 @@
+23C = 23F, 2023/3/21 - 09:12:32 PM - Air conditioner recomended.
+100C = 100F, 2023/3/21 - 09:18:23 PM - Water boils.
+100F = 37.8C, 2023/3/21 - 09:18:29 PM - Fever, maybe?
+36C = 36F, 2023/3/21 - 09:18:40 PM - Air conditioner recomended.
+36F = 2.2C, 2023/3/21 - 09:18:43 PM - Welcome to canadian Summer.
+0F = -17.8C, 2023/3/21 - 09:18:57 PM - Welcome to canadian Fall
+0C = 0F, 2023/3/21 - 09:18:59 PM - Very cold day.
+-40C = -40F, 2023/3/21 - 09:19:05 PM - Extremely Cold Day (and the same number!)
+32C = 32F, 2023/3/21 - 09:21:02 PM - Air conditioner recomended.
+32F = 0C, 2023/3/21 - 09:21:05 PM - Very cold day.
+56C = 56F, 2023/3/21 - 09:21:11 PM - TOO hot for bath.
+56F = 13.3C, 2023/3/21 - 09:21:13 PM - Starting to get cold, right?
+12F = -11.1C, 2023/3/21 - 09:21:21 PM - Welcome to canadian Fall
+12C = 12F, 2023/3/21 - 09:21:23 PM - Starting to get cold, right?
